@@ -1,0 +1,8 @@
+///////////////////////////LIBR //////////////////////////////
+#pragma once
+#include <iostream>
+#include <string>
+#include <SDL2/SDL.h>
+#include <SDL_image.h>
+#include <SDL_ttf.h>
+/////////////////////////////LIBR_FILES///////////////////////
